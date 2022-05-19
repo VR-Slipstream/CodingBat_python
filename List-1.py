@@ -1,7 +1,6 @@
 """
-Solutions for List-1 of CodingBat Python
+Solutions to List-1 of CodingBat Python
 """
-from typing import Any
 
 """first_last6
 
