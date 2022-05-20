@@ -1,6 +1,7 @@
 """
 Solutions to String-2
 """
+
 """double_char 
 
 Given a string, return a string where for every char in the original, there are two chars.
